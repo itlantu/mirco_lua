@@ -13,3 +13,14 @@ testes/libs/all
 
 temp
 lua
+
+# -- 新增内容 --
+
+# 构建目录
+build
+cmake-build-*
+
+# idea
+.idea
+.vs
+.vscode
